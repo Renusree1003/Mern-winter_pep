@@ -1,0 +1,16 @@
+h2{
+    height: 100px;
+}
+#title{
+    color: red;
+
+}
+.heading{
+    font-size: 50px;
+}
+h2{
+    height: 200px;
+    width: 400px;
+    margin: 50px auto;
+    justify-content: center;
+}

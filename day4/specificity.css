@@ -1,0 +1,18 @@
+*{
+    color: red;
+}
+p.text{
+    color: black;
+}
+p{
+    color: gold;
+}
+.text{
+    color: green;
+}
+#letters{
+    color: violet;
+}
+.text-highest{
+    color: aqua !important;
+}
