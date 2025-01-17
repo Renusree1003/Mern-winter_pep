@@ -1,0 +1,19 @@
+*{
+    color: red;
+    margin: 0;
+}
+.text-1{
+    padding: 20px;
+
+    background-color: yellow;
+    border-width: 2px;
+    border-color: brown;
+    border-style: solid;
+}
+.text-2{
+    margin: 20px;
+    background-color: aqua;
+    border-width: 2px;
+    border-color: brown;
+    border-style: solid;
+}

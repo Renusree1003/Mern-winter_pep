@@ -1,0 +1,24 @@
+h2{
+    color: red;
+    background-color: blue;
+}
+small{
+    color: yellow;
+
+}
+p{
+    color: green;
+}
+#lorem-text{
+    color: pink;
+}
+.text-type-1{
+    color: grey;
+    background-color: blueviolet;
+}
+h2.text-type-1{
+    color: lime;
+}
+.big-text{
+    font-size: 32px;
+}
