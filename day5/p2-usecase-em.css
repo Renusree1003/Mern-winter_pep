@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+.card{
+    padding: 1.5em;
+    width: 22.5em;
+    margin: 6em auto 0;
+    font-size: 16px;
+    border-radius: 1.5em;
+    background-color: violet;
+    color: white;
+}
+p{
+    color: lightblue;
+    margin: 0.75em 0 0.75em;
+    font-size: 16px;
+}
+h3{
+    font-size: 1.5em;
+}
+h6{
+    font-size: 14px;
+}
+
+.small{
+    font-size: 8px;
+}

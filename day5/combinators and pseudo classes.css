@@ -1,0 +1,74 @@
+/* //descendent combinator */
+
+/* section li{
+    background-color: aqua;
+} */
+
+/* /* direct child */
+/* section > ol{
+    background-color: aqua;
+    
+} */ 
+
+h6{
+    background-color: lime;
+}
+
+/* next sibling combinator */
+/* section + ol{
+    background-color: blue;
+} */
+
+/* p ~ li{
+    background-color: blue;
+}
+
+h3 + p{
+    background-color: orange;
+}
+
+h6+section > h6{
+    background-color: pink;
+} */
+
+
+p{
+    transition-duration: 2s;
+    transition-property: font-size;
+}
+p:hover{
+    background-color: pink;
+    font-size: 20px;
+    /* transition-duration: 2s;
+    transition-property: font-size; */
+}
+button{
+    padding: 0.3rem 0.7rem;
+    border-radius: 0.3rem;
+    border: 1px solid grey;
+    background-color: azure;
+    transition-duration: 600ms;
+    transition-property: all;
+    
+    
+}
+button:hover{
+    background-color:aqua;
+    cursor: pointer;
+     scale: 1.5;   
+      
+}
+
+button:active{
+    background-color: red;
+    transition-duration: 0;
+    scale: 0.7;
+}
+
+button:disabled{
+    opacity: 0.6;
+    scale: 1;
+    cursor: not-allowed;
+    background-color: azure;
+}
+

@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+.card{
+    padding: 24px;
+    width: 360px;
+    margin: auto;
+    
+    border-radius: 24px;
+    background-color: violet;
+    color: white;
+}
+p{
+    color: lightblue;
+    margin: 12px 0 12px;
+}
+.small{
+    padding: 12px;
+    width: 180px;
+    margin: 100px auto;
+    
+    border-radius: 120px;
+    background-color: blue;
+    color: white;
+
+}

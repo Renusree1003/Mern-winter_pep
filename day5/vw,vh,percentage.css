@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+.container-v{
+    width: 50vw;
+    height: 50vh;
+    background-color: red;
+} 
+.container-p{
+    width: 50%;
+    
+    height: 100px;
+    background-color: yellow;
+}
+main{
+    border: 1px solid brown;
+    padding: 1rem;
+    margin: 1rem;
+}

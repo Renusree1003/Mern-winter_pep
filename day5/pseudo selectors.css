@@ -1,0 +1,15 @@
+li:first-child{
+    background-color: blue;
+    color: white;
+}
+p:first-of-type{
+    background-color: pink;
+}
+
+section:last-of-type{
+    background-color: red;
+}
+
+button:nth-child(1){
+    background-color: blueviolet;
+}
